@@ -1,4 +1,4 @@
-# temp_now
+# TempNow
 **Very** Simple weather app.
 
 # How to start?
