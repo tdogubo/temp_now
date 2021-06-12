@@ -1,3 +1,6 @@
 # temp_now
-Simple weather app.
-Cick on the link in the `About` section and watch the magic 😮
+**Very** Simple weather app.
+
+# How to start?
+* Cick on the link in the `About` section.
+* Watch the magic and be amazed!! 😮
