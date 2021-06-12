@@ -2,5 +2,5 @@
 **Very** Simple weather app.
 
 # How to start?
-* Cick on the link in the `About` section.
+* Cick the link in the `About` section.
 * Watch the magic and be amazed!! 😮
